@@ -8,6 +8,8 @@ import org.mockito.Mockito;
 import org.mockito.MockitoAnnotations;
 import taxi.dao.DriverDao;
 import taxi.model.Driver;
+import taxi.service.impl.DriverServiceImpl;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.NoSuchElementException;

@@ -13,6 +13,7 @@ import org.mockito.Mockito;
 import org.mockito.MockitoAnnotations;
 import taxi.dao.ManufacturerDao;
 import taxi.model.Manufacturer;
+import taxi.service.impl.ManufacturerServiceImpl;
 
 class ManufacturerServiceImplTest {
     @Mock

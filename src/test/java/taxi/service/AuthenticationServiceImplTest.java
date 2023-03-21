@@ -10,6 +10,8 @@ import org.mockito.MockitoAnnotations;
 import java.util.Optional;
 import taxi.exception.AuthenticationExeption;
 import taxi.model.Driver;
+import taxi.service.impl.AuthenticationServiceImpl;
+
 import static org.mockito.Mockito.times;
 import static org.mockito.Mockito.when;
 
