@@ -20,7 +20,7 @@ Tomcat or SmartTomcat is used to start and run the application.
 * delete car
 
 ### **Manufacturer🏭**
-Each manufacturer has a name and a country. 
+Each manufacturer has a name and a country.
 The manufacturer object is a helper object for initializing machines.
 
 ### **Authentication🔑**
