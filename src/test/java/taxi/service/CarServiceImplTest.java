@@ -12,6 +12,7 @@ import static org.mockito.Mockito.when;
 import taxi.model.Driver;
 import taxi.dao.CarDao;
 import taxi.model.Car;
+import taxi.service.impl.CarServiceImpl;
 
 class CarServiceImplTest {
     private CarDao carDao;
