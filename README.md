@@ -41,7 +41,7 @@ The manufacturer object is a helper object for initializing machines.
 * click "Fix" and select "web-security:war exploded"
 * and delete any new link that appeared after the "/"
 * This is what your link should look like http://localhost:8080/
-8. Тепер натисніть кнопку Rune або комбінацію гарячих клавіш Shift + F10.🧑🏼‍💻
+8. Press the Rune button or the Shift + F10 hotkey combination.🧑🏼‍💻
 
 ### **🛠️Used technologies🛠️**
 * Java (JDK 11)
